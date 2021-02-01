@@ -1,0 +1,6 @@
+Products & Quantity Sold
+Cola | 1
+Potato Crisps | 1
+Dr. Salt | 1
+*************SALES REPORT************
+Total Balance: $5.80

@@ -1,0 +1,3 @@
+Products & Quantity Sold
+*************SALES REPORT************
+Total Balance: $0.00
